@@ -1,0 +1,1 @@
+Tab Manager, tutorial can be found here https://developer.chrome.com/docs/extensions/mv3/getstarted/tut-tabs-manager/

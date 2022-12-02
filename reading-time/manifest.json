@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Reading time extension",
     "version": "1.0",
-    "description": "Add reading times to websites",
+    "description": "Add reading times to wikipedia sites",
     
     "icons": {
         "16": "./images/icon-16.png",
